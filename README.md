@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 Olá, me chamo Yann Vieira, sou estudante de Jogos Digitais no Centro Universitário Unifacisa, tenho muito interesse em programação, modelagem 3D e animação. 
 Estou atualmente estudando Unity 3D/2D, Blender e C#. 
 
-
+ ![](https://github.com/Yannvieira11/YannVieira11/blob/main/https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F550494754442347803%2F&psig=AOvVaw01-gBX0UExO5BARtAHhTNc&ust=1635200201345000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCOiA8MuJ5PMCFQAAAAAdAAAAABAJ)
