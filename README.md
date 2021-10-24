@@ -1,4 +1,4 @@
-### Bem vindo(a) ao meu GitHub!! 👋
+### Bem vindo(a) ao meu GitHub!! 👋 :octocat:
 
 <!--
 **Yannvieira11/Yannvieira11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,6 +37,12 @@ Here are some ideas to get you started:
 
 Olá, me chamo Yann Vieira, sou estudante de Jogos Digitais no Centro Universitário Unifacisa, tenho muito interesse em programação, modelagem 3D e animação. 
 Estou atualmente estudando Unity 3D/2D, Blender e C#. 
+
+
+## ABOUT ME !! :computer: :books:
+
+Hi, my name is Yann Vieira, I'm a Digital Games student at Centro Universitário Unifacisa, I'm very interested in programming, 3D modeling and animation.
+I'm currently studying Unity 3D/2D, Blender and C#.
 
 ![2bcc0e11960ebe99ec2c4d402328a970](https://user-images.githubusercontent.com/93037341/138616121-2ffe9cb4-9f2a-4f55-ad79-3ed712aca1cd.gif)
 
