@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  # Thais Denise Rocine :octocat:
+  # Yann Vieira :octocat:
 
 <!--
 **Yannvieira11/Yannvieira11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
