@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Yannvieira11&show_icons=true&theme=radical) 
 
 
-## About Me! :computer: :books:
+## SOBRE MIM!! :computer: :books:
+
+Olá, me chamo Yann Vieira, sou estudante de Jogos Digitais no Centro Universitário Unifacisa, tenho muito interesse em programação, modelagem 3D e animação. 
+Estou atualmente estudando Unity 3D/2D, Blender e C#. 
 
 
-Hello, my name is Thais Denise :dizzy:, I am 20 years old, I am a lover of technology, cats :cat:, good music and truly in love with music.
-
-I am currently studying at the Federal University of Campina Grande, where I study Computer Science.
